@@ -1,4 +1,4 @@
-# Insta-Clone-React - Lambda School
+# Instagram Clone Using React - Lambda School
 A simple application made using react, boostrap, react-strap, styled-components,font-awesome and prop-types. 
 
 ## Introduction
