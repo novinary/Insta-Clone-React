@@ -1,68 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Insta-Clone-React - Lambda School
+A simple application made using react, boostrap, react-strap, styled-components,font-awesome and prop-types. 
 
-## Available Scripts
+## Introduction
 
-In the project directory, you can run:
+- This project was created while I attnded Lambda School. The purpose of was to build on my knowledge of React.
 
-### `npm start`
+  - Here, I have implemented a lot of the same concepts that I have been in previous non-react projects, in a very similar fashion.
+  - The main difference this time around is that I'll be using the `create-react-app (CRA)` utility to generate my React project.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- This project was worked on throughout one week.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+  - Each day as I learned new things, I used that knowledge to build and enhance this project a little more.
+  -  Throughout the whole week, I added more code, and change things here and there as I learn new principles and techniques.
+  - I also communicated any problems I'm having to my Project Manager to ensure to get me un-stuck along the way as soon as possible.
+  - The goal is to finish each day's objectives, and have a working project to start with on the next day.
+  - The main goal of this project was to see a react application come to life, and see how react works at a higher level.
 
-### `npm test`
+- For this project, I built a simple Instagram clone using React.
+- There is a file provided called `dummy-data.js` that contains some mock data. Each object in the mock data represents a faux Instagram post.
+- My React application receives this faux post data and render each as a separate Instagram post.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Day I Objectives
 
-### `npm run build`
+- Demonstrate the the ability to use create-react-app to boilerplate a react application
+- Describe and be able to use PropTypes to 'type check' specific data being passed down to a child component
+- Demonstrate the ability to use defaultProps in a React component
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Day II Objectives
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+- Understand the concept of React component lifecycles, along with the major lifecycle methods such as render, componentDidMount.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Day III Objectives
 
-### `npm run eject`
+- Be able to explain and implement a React Higher Order Component to conditionally render protected content to the screen.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Day IV Objectives
+- Be able to use styled-components to add functional styles to their React Components
+- Be able to explain why state driven views and components are useful patterns for scalability, composability, and reuse and how React enables those patterns
