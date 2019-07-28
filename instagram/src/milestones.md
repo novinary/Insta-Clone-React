@@ -1,4 +1,4 @@
-Milestone I
+** Milestone I **
 At this point I have a working app with a component tree that is setup kind of like this (note that this is not a design spec!):
 ![alt text](https://raw.githubusercontent.com/novinary/Insta-Clone-React/novina-pun/instagram/src/images/InstaClone-componentStructure.jpg)
 - Dummy data should be imported to app.js, and then passed as props to each PostContainer.
@@ -6,7 +6,7 @@ At this point I have a working app with a component tree that is setup kind of l
 - The props being passed to each component should be typed checked using propTypes and defaultProps.
 - The comment section should add a comment to the post
 
-Milestone II
+** Milestone II **
 - Use lifecycle methods
 In app.js use componentDidMount() to set your data to the component's state. Use the state object to pass data to your PostContainer component.
 
@@ -23,7 +23,7 @@ This will be set up a lot like the 'Add a comment...' input. Pass a function dow
 Set up the search bar will like the comment input and the like button. In your function, filter out any post whose username doesn't match the search term  passed in, then update the state with the resulting data.
 
 
-Milestone III
+** Milestone III **
 - Today I will be building a "Higher Order Component" (HOC)
 - The HOC will not let users see the posts until they have logged in. (Our login system for this will be faked using LocalStorage).
 - The job of the HOC will be to render a login page if the user is not logged in, then render the posts after the user is logged in.
