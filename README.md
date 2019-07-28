@@ -3,7 +3,7 @@ A simple application made using react, boostrap, react-strap, styled-components,
 
 ## Introduction
 
-- This project was created while I attnded Lambda School. The purpose of was to build on my knowledge of React.
+- This project was created while I attended Lambda School. The purpose of was to build on my knowledge of React.
 
   - Here, I have implemented a lot of the same concepts that I have been in previous non-react projects, in a very similar fashion.
   - The main difference this time around is that I'll be using the `create-react-app (CRA)` utility to generate my React project.
