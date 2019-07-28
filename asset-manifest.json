@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Insta-Clone-React/static/css/main.2f6ed517.chunk.css",
+    "main.js": "/Insta-Clone-React/static/js/main.99be7799.chunk.js",
+    "main.js.map": "/Insta-Clone-React/static/js/main.99be7799.chunk.js.map",
+    "runtime~main.js": "/Insta-Clone-React/static/js/runtime~main.d6275e71.js",
+    "runtime~main.js.map": "/Insta-Clone-React/static/js/runtime~main.d6275e71.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Insta-Clone-React/static/css/2.266e55a5.chunk.css",
+    "static/js/2.25ef7976.chunk.js": "/Insta-Clone-React/static/js/2.25ef7976.chunk.js",
+    "static/js/2.25ef7976.chunk.js.map": "/Insta-Clone-React/static/js/2.25ef7976.chunk.js.map",
+    "index.html": "/Insta-Clone-React/index.html",
+    "precache-manifest.37dda0216b8668369b21fce4939e3897.js": "/Insta-Clone-React/precache-manifest.37dda0216b8668369b21fce4939e3897.js",
+    "service-worker.js": "/Insta-Clone-React/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Insta-Clone-React/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.2f6ed517.chunk.css.map": "/Insta-Clone-React/static/css/main.2f6ed517.chunk.css.map",
+    "static/media/igcameralogo.png": "/Insta-Clone-React/static/media/igcameralogo.dab84e5a.png",
+    "static/media/iglogo.png": "/Insta-Clone-React/static/media/iglogo.ff854302.png"
+  }
+}
