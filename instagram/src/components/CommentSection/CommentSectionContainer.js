@@ -11,7 +11,7 @@ class CommentSection extends React.Component {
       comment: ''
     };
   }
-  
+
   componentDidMount() {
     const id = this.props.postId;
     if (localStorage.getItem(id)) {
@@ -40,7 +40,10 @@ class CommentSection extends React.Component {
 
   handleCommentSubmit = e => {
     e.preventDefault();
-    const newComment = { text: this.state.comment, username: 'novinapun' };
+    const newComment = {
+      text: this.state.comment,
+      username: localStorage.getItem('user')
+    };
     const comments = this.state.comments.slice();
     comments.push(newComment);
     this.setState({ comments, comment: '' });
